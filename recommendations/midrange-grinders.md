@@ -53,7 +53,7 @@ want to align your own grinder. If you have a Baratza Vario or Forte, you can al
 - Simple workflow
 - Occasionally pops up used for $400~$500
 
-**Pros:** Switchable from brew to espresso, single dose, great espresso grind quality, decent brew grind quality, small, quiet, 58mm dosing cup. 
+**Pros:** Switchable from brew to espresso, single dose, great espresso grind quality, decent brew grind quality, small, quiet, 58mm dosing cup.
 **Cons:** slower grind speed, some don't like Mazzer Kony taste profile (somewhat bimodal)
 
 ### Turin/MiiCoffee/Generic DF64v2: $350~$399 from various sellers ([Amazon](https://a.co/d/bB7s1rH), [EspressoOutlet](https://espressooutlet.com/collections/home-coffee-grinders/products/turin-df64-gen-2-single-dose-coffee-grinder), [MiiCoffee](https://espressooutlet.com/collections/home-coffee-grinders/products/turin-df64-gen-2-single-dose-coffee-grinder))
